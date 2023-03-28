@@ -1,0 +1,15 @@
+.input{
+    margin-left: 2rem;
+    margin-top: 1rem;
+    &-container{
+
+        padding-bottom: 0.5rem;
+    }
+    &__label{
+        padding-bottom: 0.2rem;
+    }
+    &__textfield{
+        width: 20%;
+        height: 2rem;
+    }
+}
